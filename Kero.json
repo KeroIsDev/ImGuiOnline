@@ -1,1 +1,10 @@
-
+{
+  "patches": [
+    {
+      "type": "PATCH_LIB",
+      "lib": "libUE4.so",
+      "offset": "0x3FA4DD4",
+      "data": "00 00 A0 E3 1E FF 2F E1"
+    }
+  ]
+}
